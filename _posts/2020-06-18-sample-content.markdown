@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Welcome to My Site!"
+title:  "My First Post!"
 date:   2020-06-18 12:30
 categories: main
 ---
