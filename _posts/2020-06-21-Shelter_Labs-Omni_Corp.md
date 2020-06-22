@@ -5,8 +5,6 @@
 
 As the comment says i have downloaded the attachment..!
 
-![](https://paper.dropbox.com/doc/Shellter-Labs-Omni-Corp--A2VmaYkRFH8c0IQrNbm_CSUoAg-ZfJ9eRB5Yemm9cTas9DBY)
-
 Which contained index.php, After having a quick look on the code i just noticed this interesting part of code
  
 
