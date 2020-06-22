@@ -3,10 +3,9 @@
 ![](https://paper-attachments.dropbox.com/s_5BFC514CDB77BAE41D266A3929E09BF4A037693D98B0F9DBA01B00747655E671_1559026954596_Screen+Shot+2019-05-28+at+12.32.20+PM.png)
 
 
-As the comment says i have downloaded the attachment
+As the comment says i have downloaded the attachment..!
 
-https://www.dropbox.com/s/vakg36zi7dxqb4w/index.php?dl=0
-
+![](https://paper.dropbox.com/doc/Shellter-Labs-Omni-Corp--A2VmaYkRFH8c0IQrNbm_CSUoAg-ZfJ9eRB5Yemm9cTas9DBY)
 
 Which contained index.php, After having a quick look on the code i just noticed this interesting part of code
  
