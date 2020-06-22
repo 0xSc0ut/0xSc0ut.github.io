@@ -33,8 +33,8 @@ Thats it, what we need to do is decode the content
 
 **References:**
 
-[](https://www.idontplaydarts.com/2011/02/using-php-filter-for-local-file-inclusion/)
+[https://www.idontplaydarts.com/2011/02/using-php-filter-for-local-file-inclusion/](https://www.idontplaydarts.com/2011/02/using-php-filter-for-local-file-inclusion/)
 
-[](https://github.com/qazbnm456/awesome-security-trivia/blob/master/Tricky-ways-to-exploit-PHP-Local-File-Inclusion.md)
+[https://github.com/qazbnm456/awesome-security-trivia/blob/master/Tricky-ways-to-exploit-PHP-Local-File-Inclusion.md](https://github.com/qazbnm456/awesome-security-trivia/blob/master/Tricky-ways-to-exploit-PHP-Local-File-Inclusion.md)
 
 
