@@ -1,5 +1,3 @@
-# Shellter Labs-Omni Corp
-
 ![](https://paper-attachments.dropbox.com/s_5BFC514CDB77BAE41D266A3929E09BF4A037693D98B0F9DBA01B00747655E671_1559026954596_Screen+Shot+2019-05-28+at+12.32.20+PM.png)
 
 
