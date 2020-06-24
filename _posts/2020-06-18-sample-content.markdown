@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "My First Post!"
+title:  "How did i build this site?"
 date:   2020-06-18 12:30
 categories: main
 ---
