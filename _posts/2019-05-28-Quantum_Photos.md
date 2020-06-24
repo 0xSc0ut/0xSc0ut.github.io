@@ -1,3 +1,10 @@
+---
+layout: default
+title:  "Shellter Labs - Quantum Photos"
+date:   2019-05-28
+categories: main
+---
+
 # Shellter Labs - Quantum Photos
 
 By just seeing the url i thought that it would be an path traversal attack
