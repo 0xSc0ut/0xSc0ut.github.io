@@ -45,3 +45,12 @@ Thats it, what we need to do is decode the content
 [https://github.com/qazbnm456/awesome-security-trivia/blob/master/Tricky-ways-to-exploit-PHP-Local-File-Inclusion.md](https://github.com/qazbnm456/awesome-security-trivia/blob/master/Tricky-ways-to-exploit-PHP-Local-File-Inclusion.md)
 
 
+<div id="hyvor-talk-view"></div>
+<script type="text/javascript">
+    var HYVOR_TALK_WEBSITE = 961; // DO NOT CHANGE THIS
+    var HYVOR_TALK_CONFIG = {
+        url: '{{ page.url | absolute_url }}',
+        id: '{{page.id}}'
+    };
+</script>
+<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
