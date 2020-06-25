@@ -1,5 +1,13 @@
-# Shellter Labs-Include
-When i access this URL, it gave the same page which we have seen in memes challenge
+---
+layout: default
+title:  "Shellter Labs - Include"
+date:   2019-05-28
+categories: main
+---
+
+# Shellter Labs - Include
+
+By accessing the URL, it gave the same page which we have seen in "memes" challenge
 
 So i have accessed robots.txt file which listed me
 
