@@ -16,10 +16,10 @@ This is an Linux based machine which is tagged with ‘Easy’ severity, it was 
 
 **Tools:**
 
-PortScan - Nmap and Masscan
-Proxy - Burp Suite
-Directory Search - [ffuf](https://github.com/ffuf/ffuf)
-Privilege Escalation - [LinuxPrivilegeChecker](https://github.com/sleventyeleven/linuxprivchecker)
+* PortScan - Nmap and Masscan
+* Proxy - Burp Suite
+* Directory Search - [ffuf](https://github.com/ffuf/ffuf)
+* Privilege Escalation - [LinuxPrivilegeChecker](https://github.com/sleventyeleven/linuxprivchecker)
 
 **Steps To Reproduce:**
 
