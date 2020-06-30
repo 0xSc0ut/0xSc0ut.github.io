@@ -1,3 +1,10 @@
+---
+layout: default
+title:  "HackTheBox - Bank"
+date:   2020-06-29
+categories: HackTheBox
+---
+
 # HackTheBox - Bank
 In the series of HackTheBox our next stop is ‘Bank’.
 
@@ -148,3 +155,12 @@ So executing this file got me root
 
 Thank you, Have a good day
 
+<div id="hyvor-talk-view"></div>
+<script type="text/javascript">
+    var HYVOR_TALK_WEBSITE = 961; // DO NOT CHANGE THIS
+    var HYVOR_TALK_CONFIG = {
+        url: '{{ page.url | absolute_url }}',
+        id: '{{page.id}}'
+    };
+</script>
+<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
