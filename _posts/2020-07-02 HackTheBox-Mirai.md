@@ -1,4 +1,12 @@
+---
+layout: default
+title:  "HackTheBox - Mirai"
+date:   2020-07-02
+categories: HackTheBox
+---
+
 # HackTheBox - Mirai
+
 Welcomes you with another box, ‘Mirai’
 
 
@@ -40,7 +48,7 @@ Here i have used FUFF, you can use any tools like gobuster,dirb,etc.
 
 As you can see there is directory named /admin
 
-******Shell:**
+**Shell:**
 
 We didn’t get anything from swfobject.js except a prase
 
@@ -124,3 +132,12 @@ As you can see /media/usbstick is available in filesystem /dev/sdb, lets check s
 
 Thank you for reading , Have a nice day
 
+<div id="hyvor-talk-view"></div>
+<script type="text/javascript">
+    var HYVOR_TALK_WEBSITE = 961; // DO NOT CHANGE THIS
+    var HYVOR_TALK_CONFIG = {
+        url: '{{ page.url | absolute_url }}',
+        id: '{{page.id}}'
+    };
+</script>
+<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
