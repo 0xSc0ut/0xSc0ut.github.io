@@ -1,3 +1,10 @@
+---
+layout: default
+title:  "HackTheBox - Curling"
+date:   2020-07-06
+categories: HackTheBox
+---
+
 # HTB-Curling
 As part of #Hackthebox writeup,  Curling is our next one
 
@@ -200,3 +207,13 @@ just follow the steps,
 
 Thank you, Have a nice day!!
 
+
+<div id="hyvor-talk-view"></div>
+<script type="text/javascript">
+    var HYVOR_TALK_WEBSITE = 961; // DO NOT CHANGE THIS
+    var HYVOR_TALK_CONFIG = {
+        url: '{{ page.url | absolute_url }}',
+        id: '{{page.id}}'
+    };
+</script>
+<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
