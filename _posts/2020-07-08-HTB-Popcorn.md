@@ -1,4 +1,13 @@
-# 2020-07-08-HTB-Popcorn
+---
+layout: default
+title:  "HackTheBox - Popcorn"
+date:   2020-07-08
+categories: HackTheBox
+---
+
+
+# HackTheBox Popcorn
+
 Welcome back to another new post on [#Hackthebox](https://www.hackthebox.eu/),
 
 
@@ -132,3 +141,12 @@ Since exploit was successful lets just ssh to the username and password which we
 
 Thanks for reading, Have a nice day !!
 
+<div id="hyvor-talk-view"></div>
+<script type="text/javascript">
+    var HYVOR_TALK_WEBSITE = 961; // DO NOT CHANGE THIS
+    var HYVOR_TALK_CONFIG = {
+        url: '{{ page.url | absolute_url }}',
+        id: '{{page.id}}'
+    };
+</script>
+<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
