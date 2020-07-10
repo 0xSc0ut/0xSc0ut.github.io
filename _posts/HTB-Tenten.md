@@ -2,7 +2,7 @@
 layout: default
 title:  "HackTheBox - Tenten"
 date:   2020-07-09
-categories: main
+categories: HackTheBox
 ---
 
 # HackTheBox - Tenten
