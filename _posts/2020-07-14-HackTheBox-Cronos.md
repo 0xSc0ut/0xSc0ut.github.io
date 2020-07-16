@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "HackTheBox"
+title:  "HackTheBox - Cronos"
 date:   2020-07-14
 categories: HackTheBox
 ---
