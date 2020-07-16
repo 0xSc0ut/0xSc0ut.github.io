@@ -32,7 +32,7 @@ As always start with scanning all ports, I have used masscan and nmap.
     open udp 53 10.10.10.13 1594390129
     open tcp 22 10.10.10.13 1594390142
 
-******Nmap**
+**Nmap**
 
 
     PORT   STATE  SERVICE VERSION
