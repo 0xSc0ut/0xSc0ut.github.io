@@ -1,4 +1,11 @@
-# HTB - Lazy
+---
+layout: default
+title:  "HackTheBox - Lazy"
+date:   2020-07-22
+categories: HackTheBox
+---
+
+# HackTheBox - Lazy
 
 ![](https://paper-attachments.dropbox.com/s_0D7F007F40F0D6C127E0E610A9E236E2412E24E3D9F3E16A5F441EA21AE79E33_1595487621067_Screenshot+2020-07-23+at+12.30.09+PM.png)
 
@@ -354,3 +361,12 @@ I have created a file in /tmp folder with above content
 
 Thank you, Have a nice day !!
 
+<div id="hyvor-talk-view"></div>
+<script type="text/javascript">
+    var HYVOR_TALK_WEBSITE = 961; // DO NOT CHANGE THIS
+    var HYVOR_TALK_CONFIG = {
+        url: '{{ page.url | absolute_url }}',
+        id: '{{page.id}}'
+    };
+</script>
+<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
