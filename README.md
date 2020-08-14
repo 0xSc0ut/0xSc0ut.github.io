@@ -1,69 +1,59 @@
-# Jekyll Cayman theme
+# Klisé
 
-This is a [Jekyll][1] theme for [@jasonlong][2]'s [Cayman theme][4] on [GitHub Pages][3].
+Klisé is minimalist Jekyll theme for running a personal site and blog running on Jekyll.<br>
+For demo <a href="https://klise.now.sh" target="_blank" rel="noopener">klise.now.sh</a>
 
-Cayman is a clean, responsive theme for [GitHub Pages](https://pages.github.com). This theme is available as an option if you use the [Automatic Page Generator](https://help.github.com/articles/creating-pages-with-the-automatic-generator/) or you can copy the template and styles to use on your own.
+## Features
 
-You can preview the theme at https://jasonlong.github.io/cayman-theme or with real content at https://jasonlong.github.io/geo_pattern.
+- [x] Light & Dark Mode support :waxing_crescent_moon:
+- [x] Customizable (using `.scss`)
+- [x] Responsive (desktop, tab and mobile)
+- [x] Mobile First Design
+- [x] SEO Optimized
+- [x] Images of post Organized ([`jekyll-postfiles`](https://github.com/nhoizey/jekyll-postfiles))
+- [x] Generate Sitemap ([`jekyll-sitemap`](https://github.com/jekyll/jekyll-sitemap))
+- [x] RSS Feed ([`jekyll-feed`](https://github.com/jekyll/jekyll-feed))
+- [x] Syntax Highlighter ([`rouge`](https://github.com/rouge-ruby/rouge))
+- [x] Next & Previous Post
+- [x] Comment layout, enable in frontmatter if you wish
+- [x] Google analytics
+- [x] HTML Minify ([`jekyll-compress-html`](https://github.com/penibelst/jekyll-compress-html))
+- [x] W3C **Validated**
+- [x] Lighthouse and PageSpeed **Passed**
 
-![](https://cl.ly/image/1T3r3d18311V/content)
+![Lighthouse Result](./lighthouse.png)
 
-# How to use it?
+## Backlogs
 
-Download the theme @ https://github.com/pietromenna/jekyll-cayman-theme/archive/master.zip
+- [ ] Intergrated with PhotoSwipe.
+- [ ] Add schema.org meta information.
+- [ ] Transform class selector to BEM metodology.
 
-Unzip it and use it as a regular jekyll folder.
+## Installation
 
+Run local server:
+
+```bash
+git clone https://github.com/piharpi/jekyll-klise.git
+cd jekyll-klise
+bundle install
+bundle exec jekyll serve
 ```
-$ unzip jekyll-cayman-theme-master.zip
-```
 
-Get inside the newly extracted folder
-```
-$ cd jekyll-cayman-theme-master
-```
+Navigate to `localhost:4000`. You're Welcome, Fork and be Stargazer.
 
-Get the required gems
-```
-$ bundle install
-```
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/piharpi/jekyll-klise) [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/piharpi/jekyll-klise)
 
-Use it!
+## Limitation
 
-```
-$ jekyll serve
-```
+- Since [`jekyll-postfiles`](https://github.com/nhoizey/jekyll-postfiles#compatibility) plugin isn't supported by github pages, this cause will make your site problems, path broken or post images won't show up, you can host alternatively using likes [netlify.com](https://netlify.com), [vercel.com](https://vercel.com) or [surge.sh](https://surge.sh) services, which support 3rd party.
 
-For more details read about [Jekyll][1] on its web page.
+## Contributing
 
-# Setup
+If you see any typos or formatting errors in a post, or want to helping reduce backlogs or any other issue that needs to be addressed, please do not hesitate to open a pull request and fix it!, please read [contributing](./CONTRIBUTING.md) before PR.
 
-Some important configuration can be done in the file `_config.yml`. Please, check the Setup section in that file.
+Yeaaa feel free to open a pull request.
 
+## License
 
-## baseurl
-
-`baseurl` parameter is required in the case the site doesn't sit on the root of the domain. For example: https://pietromenna.github.io/jekyll-cayman-theme
-
-In the case above the baseurl should be set to "/jekyll-cayman-theme".
-
-In the case the site sits in the root, you can leave `baseurl` as empty "".
-
-# Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/pietromenna/jekyll-cayman-theme.
-
-# Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-# License
-
-This work is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license.
-
-[1]: https://jekyllrb.com/
-[2]: https://github.com/jasonlong
-[3]: https://pages.github.com/
-[4]: https://github.com/jasonlong/cayman-theme
+This project is open source and available under the [MIT License](LICENSE).
